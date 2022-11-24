@@ -30,7 +30,7 @@ export const storeProducts = [
   },
   {
     id: 3,
-    title: "HTC 10 - Black",
+    title: "Samsung A51",
     img: "img/product-3.png",
     price: 11000,
     company: "htc",
@@ -42,7 +42,7 @@ export const storeProducts = [
   },
   {
     id: 4,
-    title: "HTC 10 - White",
+    title: "Realme 6",
     img: "img/product-4.png",
     price: 17000,
     company: "htc",
@@ -54,7 +54,7 @@ export const storeProducts = [
   },
   {
     id: 5,
-    title: "HTC Desire 626s",
+    title: "Redmi 9 Pro",
     img: "img/product-5.png",
     price: 45000,
     company: "htc",
@@ -66,7 +66,7 @@ export const storeProducts = [
   },
   {
     id: 6,
-    title: "Vintage Iphone",
+    title: "Iphone 1",
     img: "img/product-6.png",
     price: 60000,
     company: "apple",
