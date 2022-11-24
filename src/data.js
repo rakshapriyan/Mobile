@@ -23,8 +23,8 @@ export const storeProducts = [
     price: 26000,
     company: "SAMSUNG",
     info:
-      "Lorem ipsum dolor amet offal butcher quinoa sustainable gastropub, echo park actually green juice sriracha paleo. Brooklyn sriracha semiotics, DIY coloring book mixtape craft beer sartorial hella blue bottle. Tote bag wolf authentic try-hard put a bird on it mumblecore. Unicorn lumbersexual master cleanse blog hella VHS, vaporware sartorial church-key cardigan single-origin coffee lo-fi organic asymmetrical. Taxidermy semiotics celiac stumptown scenester normcore, ethical helvetica photo booth gentrify.",
-    inCart: false,
+    "The Samsung Galaxy S7, Samsung Galaxy S7 Edge and Samsung Galaxy S7 Active are Android-based smartphones manufactured, released and marketed by Samsung Electronics. The S7 series serves as the successor to the Galaxy S6, S6 Edge, S6 Edge+ and S6 Active released in 2015. The S7 and S7 Edge were officially unveiled on 21 February 2016 during a Samsung press conference at Mobile World Congress, with a European and North American release on 11 March 2016.[8][9] The S7 Active was unveiled on 4 June 2016, and released on AT&T in the United States on 10 June 2016.[2]",
+      inCart: false,
     count: 0,
     total: 0
   },
